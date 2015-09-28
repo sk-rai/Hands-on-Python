@@ -1,7 +1,6 @@
 hands-on-analysis-python
 ========================
 
-PyCon 2015, previously OSCON 2014
 
 # Options for installation
 
@@ -53,13 +52,5 @@ If none of these options work, or you just want to watch now and code later, you
 https://docs.google.com/document/d/1tY6ifr4m4h2Ri445Vro1ZKr7Kap0X1IcI2OGl7IDaU0/edit?usp=sharing
 
 
-# FAQs
-
-Q: HEY, why didn't you cover THAT THING?!
-
-A: Because I didn't, okay?! I only had three hours! Three hours is not enough. You could do a six hour workshop on each tool and still not cover everything.
-
-Q: What's your twitter handle again?
-
-A: [@sarah_guido](http://twitter.com/sarah_guido)
+(http://twitter.com/sarah_guido)
 
