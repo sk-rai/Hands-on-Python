@@ -47,10 +47,3 @@ If none of these options work, or you just want to watch now and code later, you
 - Scikit-learn: http://nbviewer.ipython.org/github/sarguido/hands-on-analysis-python/blob/master/notebooks/scikit_learn.ipynb
 - Matplotlib: http://nbviewer.ipython.org/github/sarguido/hands-on-analysis-python/blob/master/notebooks/matplotlib.ipynb
 
-# Questions
-
-https://docs.google.com/document/d/1tY6ifr4m4h2Ri445Vro1ZKr7Kap0X1IcI2OGl7IDaU0/edit?usp=sharing
-
-
-(http://twitter.com/sarah_guido)
-
